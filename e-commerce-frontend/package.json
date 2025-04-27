@@ -1,5 +1,5 @@
 {
-  "homepage": "https://LordAk02.github.io/lastecom",
+  "homepage": "https://LordAk02.github.io/DELL",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "https://dell-qn78.onrender.com"
   }
 }
