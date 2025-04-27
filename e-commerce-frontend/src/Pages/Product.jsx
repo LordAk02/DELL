@@ -17,7 +17,7 @@ const Product = () => {
       <DescriptionBox/>
       <RelatedProducts/>
     </div>
-  )
-}
+  );
+};
 
-export default Product
+export default Product;
