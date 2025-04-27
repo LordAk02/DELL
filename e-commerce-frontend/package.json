@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "https://dell-qn78.onrender.com"
+    "gh-pages": "^6.3.0"
   }
 }
