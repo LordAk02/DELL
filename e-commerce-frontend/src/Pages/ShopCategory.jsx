@@ -16,7 +16,7 @@ const ShopCategory = (props) => {
 
     useEffect(() => {
       fetchInfo();
-    }, [])
+    }, []);
     
   return (
     <div className="shopcategory">
@@ -35,7 +35,7 @@ const ShopCategory = (props) => {
             {
               return null;
             }
-        })}
+        })};
       </div>
       <div className="shopcategory-loadmore">
       <Link to='/' style={{ textDecoration: 'none' }}>Explore More</Link>
